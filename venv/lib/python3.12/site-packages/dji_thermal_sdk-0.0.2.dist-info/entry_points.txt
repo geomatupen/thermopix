@@ -1,0 +1,2 @@
+[nbdev]
+dji_thermal_sdk = dji_thermal_sdk._modidx:d
